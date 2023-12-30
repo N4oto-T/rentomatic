@@ -60,3 +60,8 @@ target/
 
 # pyenv python configuration file
 .python-version
+
+#added by me
+.venv/
+.DS_Store
+.vscode/
