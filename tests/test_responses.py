@@ -1,4 +1,4 @@
-from rentomatic.response import ResponseSuccess
+from rentomatic.responses import ResponseSuccess
 
 
 def test_response_success_is_true():
